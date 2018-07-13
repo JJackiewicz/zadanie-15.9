@@ -1,0 +1,22 @@
+body {
+	background-color: #b6cbdd;
+    font-family: sans-serif;
+    text-align: center;
+}
+.data-reactroot {
+    width: 60%;
+    margin: 10px;
+}
+label {
+    display: block;
+}
+input {
+    margin: 10px;
+    text-align: center;
+}
+.user {
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
